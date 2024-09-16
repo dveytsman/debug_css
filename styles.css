@@ -1,0 +1,5 @@
+.toggle-styles * {
+  background: none;
+  color: black;
+  background-color: rgba(98, 0, 255, 0.1) !important;
+}
